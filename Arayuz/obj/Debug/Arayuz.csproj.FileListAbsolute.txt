@@ -1,0 +1,11 @@
+C:\Users\celil\source\repos\Arayuz\Arayuz\bin\Debug\Arayuz.exe.config
+C:\Users\celil\source\repos\Arayuz\Arayuz\bin\Debug\Arayuz.exe
+C:\Users\celil\source\repos\Arayuz\Arayuz\bin\Debug\Arayuz.pdb
+C:\Users\celil\source\repos\Arayuz\Arayuz\obj\Debug\Arayuz.csproj.AssemblyReference.cache
+C:\Users\celil\source\repos\Arayuz\Arayuz\obj\Debug\Arayuz.Form1.resources
+C:\Users\celil\source\repos\Arayuz\Arayuz\obj\Debug\Arayuz.Form2.resources
+C:\Users\celil\source\repos\Arayuz\Arayuz\obj\Debug\Arayuz.Properties.Resources.resources
+C:\Users\celil\source\repos\Arayuz\Arayuz\obj\Debug\Arayuz.csproj.GenerateResource.cache
+C:\Users\celil\source\repos\Arayuz\Arayuz\obj\Debug\Arayuz.csproj.CoreCompileInputs.cache
+C:\Users\celil\source\repos\Arayuz\Arayuz\obj\Debug\Arayuz.exe
+C:\Users\celil\source\repos\Arayuz\Arayuz\obj\Debug\Arayuz.pdb
